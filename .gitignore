@@ -19,3 +19,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.vs/slnx.sqlite
+.vs/slnx.sqlite-journal
+.vs/React-Router-Basic-Nav/v15/.suo
+.vs/VSWorkspaceState.json
